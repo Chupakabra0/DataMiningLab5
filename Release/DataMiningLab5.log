@@ -1,0 +1,14 @@
+﻿  TestDataGetter.hpp
+  Main.cpp
+D:\Labs\DataMining\DataMiningLab5\DataMiningLab5\include\MathSolver\MathSolver.hpp(108,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Labs\DataMining\DataMiningLab5\DataMiningLab5\include\MathSolver\MathSolver.hpp(159,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Labs\DataMining\DataMiningLab5\DataMiningLab5\include\MathSolver\MathSolver.hpp(160,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Labs\DataMining\DataMiningLab5\DataMiningLab5\include\MathSolver\MathSolver.hpp(172,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Labs\DataMining\DataMiningLab5\DataMiningLab5\include\MathSolver\MathSolver.hpp(173,24): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека D:\Labs\DataMining\DataMiningLab5\Release\DataMiningLab5.lib и объект D:\Labs\DataMining\DataMiningLab5\Release\DataMiningLab5.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 5091 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+fmt.lib(format.cc.obj) : warning LNK4099: "fmt.pdb" PDB не найден с "fmt.lib(format.cc.obj)" или на "D:\Labs\DataMining\DataMiningLab5\Release\fmt.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  DataMiningLab5.vcxproj -> D:\Labs\DataMining\DataMiningLab5\Release\DataMiningLab5.exe
